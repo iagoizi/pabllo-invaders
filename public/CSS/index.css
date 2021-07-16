@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+}
+canvas{
+    border: 1px solid #990099;
+}
+@font-face {
+    font-family: albas; 
+    src: url(font/ALBAS___.TTF);
+}
