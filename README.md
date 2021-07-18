@@ -2,7 +2,7 @@
 
 Dessa vez, Pabllo Vittar foi longe de mais. Cansada de sofrer com a tristeza que é viver no Brasil, ela resolveu fazer algo sobre  ir atrás do grande vilão brasileiro :eyes:. 
 
-![Gameplay](https://i.imgur.com/Hws9cZJ.gif)
+![gameplay](https://i.imgur.com/TghuNfo.gif)
 # Made with :heart: by
 
 - [Iago Izidório Lacerda](https://github.com/iagoizi/)
